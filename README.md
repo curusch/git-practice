@@ -1,3 +1,3 @@
-# Welcome to our git repository
+# Welcome to our git repo
 
 # This is my first change
